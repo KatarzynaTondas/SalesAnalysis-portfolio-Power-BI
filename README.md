@@ -23,7 +23,7 @@ Projekt zrealizowano zgodnie z najlepszymi praktykami modelowania danych w Power
 
 - Customers – karta poświęcona analizie danych o klientach. Przedstawia ilość oraz wartość sprzedaży z podziałem na miasto pochodzenia oraz grupy wiekowe klientów.
 
-- Decomposition Tree – wykorzystywana do szczegółowej analizy miar takich jak sprzedaż, ilość i koszty w ujęciu hierarchicznym, podobnie jak w szablonie wzorcowym.
+- Decomposition Tree – wykorzystywana do szczegółowej analizy miar takich jak sprzedaż, ilość i koszty w ujęciu hierarchicznym.
 
 
 ## 3. Model danych
