@@ -15,7 +15,6 @@ Celem projektu było stworzenie interaktywnego raportu w Power BI służącego d
 - eksplorację danych przy użyciu drzewa dekompozycji.
 
 Projekt zrealizowano zgodnie z najlepszymi praktykami modelowania danych w Power BI – z podziałem na tabele faktów i wymiarów, zastosowaniem miar w języku DAX oraz logicznym układem stron raportu.
-Projekt Power BI ma na celu szczegółową analizę sprzedaży produktów w różnych lokalizacjach sieci Coffee Shop. Raport umożliwia monitorowanie kluczowych wskaźników, takich jak wartość sprzedaży, rentowność, liczba transakcji oraz analiza sezonowości. Dodatkowo, raport pozwala na identyfikację najbardziej dochodowych produktów, lokalizacji oraz sezonowych trendów sprzedaży. Dzięki dynamicznym filtrom użytkownicy mogą dostosować analizę do swoich potrzeb i uzyskać szczegółowe informacje na temat sprzedaży w różnych ujęciach.
 
 
 ## 2. Struktura raportu
